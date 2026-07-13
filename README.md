@@ -8,7 +8,7 @@
 
 ## 🌸 > *"Every universe has a Spider. This one builds beautiful software."*
 
-I'm **Debadrita Goswami** — a *div*Frontend Developer & Creative Web Engineer** swinging through the dev-verse. I love transforming ideas into clean, interactive, and user-friendly experiences.
+I'm **Debadrita Goswami** — a Frontend Developer & Creative Web Engineer swinging through the dev-verse. I love transforming ideas into clean, interactive, and user-friendly experiences.
 
 Inspired by **Spider-Gwen**, I enjoy balancing creativity with engineering, crafting modern interfaces that are fast, responsive, and enjoyable to use. Whether it's building elegant UI components, optimizing performance, or learning the latest technologies, I'm always exploring new ways to improve my craft.
 
