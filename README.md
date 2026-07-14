@@ -1,6 +1,6 @@
 
 
-![Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=F8A5C2&center=true&vCenter=true&multiline=true&width=780&height=130&lines=🕸️+//+GWENVERSE+ONLINE+%3A+Debadrita+Goswami;Frontend+Developer+%7C+Creative+Builder+%7C+Problem+Solver;Ghosting+Bugs+Like+Spider-Gwen;Swinging+Through+React%2C+Next.js+%26+Modern+Web)
+![Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=F8A5C2&center=true&vCenter=true&multiline=true&width=780&height=130&lines=🕸️++GWENVERSE+ONLINE+%3A+Debadrita+Goswami;Frontend+Developer+%7C+Creative+Builder+%7C+Problem+Solver;Ghosting+Bugs+Like+Spider-Gwen;Swinging+Through+React%2C+Next.js+%26+Modern+Web)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F8A5C2,C084FC,5B21B6&height=6&section=header" width="100%"/>
 
