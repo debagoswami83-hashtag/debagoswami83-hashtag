@@ -5,7 +5,7 @@
 
 <br/>
 
-## 🌸 > *"Every universe has a Spider. This one builds beautiful software."*
+## 🌸 > *"Every universe has a Spider. This one  is here to build beautiful software."*
 
 I'm **DEBADRITA GOSWAMI** — a Frontend Developer & Creative Web Engineer swinging through the dev-verse. I love transforming ideas into clean, interactive, and user-friendly experiences.
 
